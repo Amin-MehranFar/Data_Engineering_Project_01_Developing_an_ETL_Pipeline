@@ -1,0 +1,12 @@
+2024-03-25-00:44:38, Preliminaries complete. Initiating ETL process
+2024-03-25-00:44:39, Data extraction complete. Initiating Transformation process
+2024-03-25-00:44:39, Data transformation complete. Initiating loading process
+2024-03-25-00:44:39, Data saved to CSV file
+2024-03-25-00:44:39, Data saved to JSON file
+2024-03-25-00:44:39, SQL Connection initiated.
+2024-03-25-00:44:39, Data loaded to Database as table. Running the query
+2024-03-25-00:44:39, First query statement was executed.
+2024-03-25-00:44:39, Second query statement was executed.
+2024-03-25-00:44:39, Third query statement was executed.
+2024-03-25-00:44:39, Process complete.
+2024-03-25-00:44:39, Server connection closed.
